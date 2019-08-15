@@ -15,4 +15,4 @@ This code generates data set of synthetic DEM and SAR couples in order to train 
 The projected DEM and the projected reflection are the data pair, the final goal is to train CNN predict the DEM from the SAR. 
 <br>
 
-The Perlin noise module is from: [Solarian Programmer](https://solarianprogrammer.com/2012/07/18/perlin-noise-cpp-11/) and it comes inder GPL 3 license. 
+The Perlin noise module is from: [Solarian Programmer](https://solarianprogrammer.com/2012/07/18/perlin-noise-cpp-11/) and it is under GPL 3 license. 
